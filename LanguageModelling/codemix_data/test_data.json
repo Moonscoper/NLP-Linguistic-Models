@@ -1,0 +1,105 @@
+[
+    {
+        "id": 0, 
+        "lang_tagged_text": "Eid\\HI ka\\HI zaakat\\HI fitra\\HI lene\\HI kab\\HI aa\\HI rha\\HI hai\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Eid ka zaakat fitra lene kab aa rha hai"
+    }, 
+    {
+        "id": 5, 
+        "lang_tagged_text": "@\\UN drkumarvishwas\\EN @\\UN hemraj302015\\EN @\\UN aaptivists\\EN @\\UN drrakeshparikh\\HI @\\UN ikumar7\\EN @_\\UN mahimagupta\\HI aapka\\HI kya\\HI vichaar\\HI hai\\HI pk\\UN movie\\EN ke\\HI baare\\HI main\\HI ?\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "@drkumarvishwas @hemraj302015 @aaptivists @drrakeshparikh @ikumar7 @_mahimagupta aapka kya vichaar hai pk movie ke baare main?"
+    }, 
+    {
+        "id": 8, 
+        "lang_tagged_text": "pls\\EN mane\\HI call\\EN karo\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "pls mane call karo"
+    }, 
+    {
+        "id": 9, 
+        "lang_tagged_text": "tum\\HI dono\\HI ko\\HI hi\\HI sabse\\HI jyada\\HI thand\\HI lgti\\HI hai\\HI .\\UN .\\UN .\\UN shweta\\HI gaur\\HI meenakshi\\HI saxena\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "tum dono ko hi sabse jyada thand lgti hai  .  .  .  shweta gaur meenakshi saxena"
+    }, 
+    {
+        "id": 11, 
+        "lang_tagged_text": "Tu\\HI jaldi\\HI se\\HI decideg\\EN karle\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Tu jaldi se decideg karle "
+    }, 
+    {
+        "id": 15, 
+        "lang_tagged_text": "Bhai\\HI kha\\HI gayab\\HI hooo\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Bhai kha gayab hooo"
+    }, 
+    {
+        "id": 21, 
+        "lang_tagged_text": "@\\UN gurmeetramrahim\\UN #\\UN blockbustermsg\\EN tumre\\EN jaisa\\HI na\\HI dayalu\\HI koi\\HI data\\HI ji\\HI humre\\HI jaisa\\HI papi\\HI koi\\HI na\\HI \"\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "@gurmeetramrahim #blockbustermsg tumre jaisa na dayalu koi data ji humre jaisa papi koi na\""
+    }, 
+    {
+        "id": 23, 
+        "lang_tagged_text": "aur\\HI air\\EN hostesses\\EN aa\\HI sakengi\\HI train\\EN me\\EN ??\\UN #\\UN railbudget2015\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "aur air hostesses aa sakengi train me?? #railbudget2015"
+    }, 
+    {
+        "id": 25, 
+        "lang_tagged_text": "#\\UN railbudget2015\\EN :\\UN @\\UN sureshpprabhu\\UN :\\UN revamping\\EN stations\\EN in\\EN terms\\EN of\\EN cleanliness\\EN ,\\UN wider\\EN tracks\\EN etc\\EN .\\UN @\\UN pragnik\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 0, 
+        "text": "#railbudget2015: @sureshpprabhu: revamping stations in terms of cleanliness, wider tracks etc. @pragnik"
+    }, 
+    {
+        "id": 26, 
+        "lang_tagged_text": "Are\\HI mujhe\\HI pta\\HI h\\HI bhulna\\HI bhut\\HI mushkil\\HI hota\\HI h\\HI kuki\\EN y\\HI sab\\HI mne\\HI bh\\HI jhela\\HI h\\HI do\\HI tarike\\HI h\\HI ek\\HI asan\\EN or\\EN ek\\HI mushkl\\HI 1-\\UN phela\\HI bhar\\HI nikal\\HI cos\\EN m\\EN ya\\HI phir\\HI koi\\HI ghar\\HI k\\HI pas\\HI m\\HI ek\\HI mast\\HI s\\HI ladka\\HI dekh\\HI 15-20\\UN din\\HI dekh\\HI apne\\HI aap\\HI bhul\\HI jayegi\\HI or\\HI ho\\HI sakta\\HI h\\HI y\\EN wala\\HI use\\HI kafi\\HI acha\\HI ho\\HI 2-\\UN dusra\\HI agar\\HI kam\\HI na\\HI kare\\HI to\\HI apne\\HI parents\\EN k\\EN bare\\HI m\\HI soch\\HI or\\HI unke\\HI liy\\HI ji\\HI y\\HI sucide\\HI kar\\HI k\\HI jo\\HI tu\\HI unhe\\HI gift\\HI dne\\HI wali\\HI h\\HI unke\\HI chahre\\HI soch\\HI jab\\HI unhe\\HI y\\HI sab\\HI pta\\HI lagega\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Are mujhe pta h bhulna bhut mushkil hota h kuki y sab mne bh jhela h do tarike h ek asan or ek mushkl 1- phela bhar nikal cos m ya phir koi ghar k pas m ek mast s ladka dekh 15-20 din dekh apne aap bhul jayegi or ho sakta h y wala use kafi acha ho 2- dusra agar kam na kare to apne parents k bare m soch or unke liy ji y sucide kar k jo tu unhe gift dne wali h unke chahre soch jab unhe y sab pta lagega "
+    }, 
+    {
+        "id": 30, 
+        "lang_tagged_text": "Ahoy\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Ahoy "
+    }, 
+    {
+        "id": 31, 
+        "lang_tagged_text": "Cabg\\EN bookg\\EN karke\\HI chalenge\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Cabg bookg karke chalenge "
+    }, 
+    {
+        "id": 32, 
+        "lang_tagged_text": "pratykshik\\HI pariksha\\HI -\\UN mario\\HI me\\HI unlimited\\EN life\\EN kaha\\HI milti\\HI hai\\HI aur\\HI use\\HI kaise\\HI paye\\HI ?\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "pratykshik pariksha - mario me unlimited life kaha milti hai aur use kaise paye ? "
+    }, 
+    {
+        "id": 35, 
+        "lang_tagged_text": "Vo\\HI to\\HI soogye\\HI h\\HI ??\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Vo to soogye h ?? "
+    }, 
+    {
+        "id": 38, 
+        "lang_tagged_text": "Hamare\\HI des\\HI ki\\HI saan\\HI hamare\\HI dil\\HI ki\\HI arman\\HI ham\\HI sab\\HI ki\\HI jaan\\HI hi\\HI hamare\\HI salman\\UN bhai\\HI jaan\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 0, 
+        "text": "Hamare des ki saan hamar

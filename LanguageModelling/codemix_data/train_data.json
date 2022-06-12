@@ -71289,4 +71289,51 @@
     }, 
     {
         "id": 14785, 
-        "lang_tagged_text": "kejri\\UN sullo\\HI ka\\HI chamcha\\HI hai\\HI 
+        "lang_tagged_text": "kejri\\UN sullo\\HI ka\\HI chamcha\\HI hai\\HI ,\\UN jago\\HI hindu\\HI jago\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "kejri sullo ka chamcha hai ,  jago hindu jago"
+    }, 
+    {
+        "id": 14791, 
+        "lang_tagged_text": "Okkk\\HI mt\\HI Milo\\HI ??\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Okkk mt Milo ?? "
+    }, 
+    {
+        "id": 14793, 
+        "lang_tagged_text": "sandy\\EN ,\\UN if\\EN you\\EN have\\EN ruined\\EN my\\EN chances\\EN to\\EN see\\EN bruno\\EN mars\\EN on\\EN monday\\EN i\\EN will\\EN go\\EN buck\\EN wild\\EN .\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "sandy ,  if you have ruined my chances to see bruno mars on monday i will go buck wild . "
+    }, 
+    {
+        "id": 14796, 
+        "lang_tagged_text": "missing\\EN my\\EN family\\EN far\\EN away\\EN .\\UN .\\UN :(\\UN .\\UN .\\UN .\\UN the\\EN same\\EN way\\EN i\\HI used\\EN to\\EN celebrate\\EN new\\EN year\\EN .\\UN .\\UN .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "missing my family far away .  .  :(  .  .  .  the same way i used to celebrate new year .  .  . "
+    }, 
+    {
+        "id": 14801, 
+        "lang_tagged_text": "yaar\\HI chup\\HI raho\\HI bas\\HI ab\\HI ,\\UN 4\\UN aaye\\HI the\\HI general\\EN elections\\EN mai\\HI ,\\UN har\\HI baar\\HI ek\\HI naya\\HI fake\\HI issue\\EN lekar\\HI aa\\HI jate\\HI ho\\HI ,\\UN people\\EN mandate\\HI ko\\HI mante\\HI hi\\HI nahi\\HI ho\\HI bhai\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "yaar chup raho bas ab , 4 aaye the general elections mai , har baar ek naya fake issue lekar aa jate ho , people mandate ko mante hi nahi ho bhai"
+    }, 
+    {
+        "id": 14804, 
+        "lang_tagged_text": "Bilkul\\HI nahi\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Bilkul nahi "
+    }, 
+    {
+        "id": 14805, 
+        "lang_tagged_text": "@\\UN dhatwalia85\\EN @\\UN ravikumar8055\\UN @\\UN sweetboykamal\\EN es\\EN kutte\\HI ko\\HI ulta\\HI latka\\HI ke\\HI maarenge\\HI #\\UN beefban\\EN #\\UN waitingforgabbarlook\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "@dhatwalia85 @ravikumar8055 @sweetboykamal es kutte ko ulta latka ke maarenge #beefban #waitingforgabbarlook"
+    }
+]

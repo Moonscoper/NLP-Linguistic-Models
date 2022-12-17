@@ -44059,4 +44059,396 @@
     }, 
     {
         "id": 9367, 
-        "lang_tagged_text": "yaar\\HI news\\EN mein\\HI aaya\\HI tha\\HI tu\\HI .\\UN .\\UN .\\UN ?\\UN ?\\UN ?\\UN ?\\UN huh\\HI .\\UN .\\UN story\\EN achhi\\HI h\\HI short\\EN film\\EN bnwaa\\HI le\\HI 
+        "lang_tagged_text": "yaar\\HI news\\EN mein\\HI aaya\\HI tha\\HI tu\\HI .\\UN .\\UN .\\UN ?\\UN ?\\UN ?\\UN ?\\UN huh\\HI .\\UN .\\UN story\\EN achhi\\HI h\\HI short\\EN film\\EN bnwaa\\HI le\\HI ispe\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "yaar news mein aaya tha tu  .  .  .  ?  ?  ?  ?  huh  .  .  story achhi h short film bnwaa le ispe"
+    }, 
+    {
+        "id": 9368, 
+        "lang_tagged_text": "bhai\\HI thik\\HI hain\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "bhai thik hain "
+    }, 
+    {
+        "id": 9376, 
+        "lang_tagged_text": "Bhaiii\\HI ...\\UN greatttt\\EN <\\UN 3\\UN <\\UN 3\\UN <\\UN 3\\UN amazinggg\\EN wonderfullll\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "Bhaiii ...greatttt<3<3<3 amazinggg wonderfullll"
+    }, 
+    {
+        "id": 9381, 
+        "lang_tagged_text": "bhai\\EN unblock\\EN kr\\HI de\\HI unhe\\HI atleast\\EN vo\\HI jo\\HI fake\\EN nahi\\HI h\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "bhai unblock kr de unhe atleast vo jo fake nahi h "
+    }, 
+    {
+        "id": 9385, 
+        "lang_tagged_text": "dil\\HI behelta\\HI hai\\HI mera\\HI aap\\UN ke\\HI aa\\HI jane\\HI se\\HI ...\\UN #\\UN policaldrama\\EN #\\UN aapsweep\\EN #\\UN delhidecides\\EN #\\UN aapstorm\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "dil behelta hai mera aap ke aa jane se... #policaldrama #aapsweep #delhidecides #aapstorm"
+    }, 
+    {
+        "id": 9389, 
+        "lang_tagged_text": "no\\EN one\\EN in\\EN this\\EN world\\EN can\\EN replace\\EN mother\\EN hats-off\\EN to\\EN you\\HI mom\\EN i\\HI really\\HI miss\\HI you\\HI :(\\EMT ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "no one in this world can replace mother hats-off to you mom i really miss you :("
+    }, 
+    {
+        "id": 9390, 
+        "lang_tagged_text": "ye\\HI sabhi\\HI towns\\EN me\\EN hota\\HI hai\\HI kya\\HI ?\\UN ?\\UN ?\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "ye sabhi towns me hota hai kya ?  ?  ? "
+    }, 
+    {
+        "id": 9391, 
+        "lang_tagged_text": "haha\\HI .\\UN .\\UN nice\\EN .\\UN .\\UN .\\UN .\\UN plus\\EN new\\EN syllabus\\EN me\\EN candy\\EN crush\\EN ,\\UN temple\\EN run\\EN n\\EN subway\\EN surfer\\EN .\\UN .\\UN .\\UN n\\EN btw\\EN don't\\EN underestimate\\EN girls\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "haha .  .  nice .  .  .  .  plus new syllabus me candy crush ,  temple run n subway surfer .  .  .  n btw don't underestimate girls"
+    }, 
+    {
+        "id": 9392, 
+        "lang_tagged_text": "maa\\HI ka\\HI pyaar\\HI .\\UN .\\UN .\\UN loved\\HI it\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "maa ka pyaar .  .  . loved it"
+    }, 
+    {
+        "id": 9398, 
+        "lang_tagged_text": "\ud83d\ude1c\ud83d\ude1c\\UN Hehhe\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "\ud83d\ude1c\ud83d\ude1c Hehhe "
+    }, 
+    {
+        "id": 9399, 
+        "lang_tagged_text": "Luv\\EN u\\EN bhai\\HI ...\\UN u\\EN r\\EN so\\EN cute\\EN ....\\UN sbki\\HI jaan\\HI salman\\HI khan\\HI .........\\UN Anitha\\HI Parmar\\HI ", 
+        "matrix_language": "MIX", 
+        "sentiment": 1, 
+        "text": "Luv u bhai...u r so cute....sbki jaan salman khan......... Anitha Parmar"
+    }, 
+    {
+        "id": 9400, 
+        "lang_tagged_text": "Salam\\HI lekum\\HI bhai\\HI jaan\\HI ramdan\\HI mubarak\\HI ho\\HI aap\\HI ko\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Salam lekum bhai jaan ramdan mubarak ho aap ko"
+    }, 
+    {
+        "id": 9404, 
+        "lang_tagged_text": "really\\EN bored\\EN of\\EN this\\EN host\\EN on\\EN super\\EN sunday\\EN doing\\EN nothing\\EN but\\EN talk\\EN and\\EN rave\\EN about\\EN man\\EN utd\\EN #\\UN biasprick\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "really bored of this host on super sunday doing nothing but talk and rave about man utd #biasprick"
+    }, 
+    {
+        "id": 9408, 
+        "lang_tagged_text": "hum\\HI class\\EN k\\EN monitor\\EN the\\EN mje\\EN alag\\HI the\\HI raja\\HI babu\\HI :)\\EMT ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "hum class k monitor the mje alag the raja babu :)"
+    }, 
+    {
+        "id": 9409, 
+        "lang_tagged_text": "Waoo\\HI .\\UN salman\\HI nice\\EN yar\\HI ", 
+        "matrix_language": "MIX", 
+        "sentiment": 1, 
+        "text": "Waoo.salman nice yar"
+    }, 
+    {
+        "id": 9412, 
+        "lang_tagged_text": "this\\EN one\\EN is\\EN epic\\EN .\\UN i\\EN wish\\EN every\\EN school\\EN had\\EN contra\\EN and\\EN double\\EN dragon\\EN on\\EN their\\EN syllabus\\EN .\\UN we\\EN would\\EN have\\EN rocked\\EN :\\UN p\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "this one is epic . i wish every school had contra and double dragon on their syllabus .  we would have rocked :p"
+    }, 
+    {
+        "id": 9413, 
+        "lang_tagged_text": "superb\\EN .\\UN .\\UN .\\UN this\\EN one\\EN is\\EN truly\\EN hatke\\EN style\\EN .\\UN .\\UN .\\UN .\\UN ;)\\UN contra\\UN ki\\EN 2nd\\EN stage\\EN .\\UN .\\UN .\\UN islander\\EN ke\\HI ande\\HI .\\UN .\\UN :\\UN p\\HI ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "superb .  .  .  this one is truly hatke style .  .  .  .  ;) contra ki 2nd stage .  .  .  islander ke ande .  .  :p"
+    }, 
+    {
+        "id": 9418, 
+        "lang_tagged_text": "not\\EN necessary\\EN to\\EN translate\\EN every\\EN dish\\EN in\\EN english\\EN that's\\EN indian\\EN dish\\HI fir\\HI bharva\\HI hi\\HI hoga\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "not necessary to translate every dish in english that's indian dish fir bharva hi hoga"
+    }, 
+    {
+        "id": 9423, 
+        "lang_tagged_text": "To\\HI tum\\HI kha\\HI ho\\HI ??\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "To tum kha ho ?? "
+    }, 
+    {
+        "id": 9430, 
+        "lang_tagged_text": "ahhhhaaa\\HI uhooooooo\\HI !!\\UN match\\HI day\\EN ...!\\UN charged\\EN up\\EN and\\EN ready\\EN to\\EN watch\\EN boys\\EN in\\EN action\\EN with\\EN buddies\\EN ...\\UN #\\UN bringiton\\EN #\\UN indvsuae\\EN #\\UN cwc2015\\EN #\\UN bleedblue\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "ahhhhaaa uhooooooo!! match day...! charged up and ready to watch boys in action with buddies... #bringiton #indvsuae #cwc2015 #bleedblue"
+    }, 
+    {
+        "id": 9432, 
+        "lang_tagged_text": "bhai\\HI aisa\\HI mere\\HI sath\\HI hua\\HI hai\\HI u\\EN r\\EN awesome\\EN bhai\\HI ", 
+        "matrix_language": "MI", 
+        "sentiment": 1, 
+        "text": "bhai aisa mere sath hua hai u r awesome bhai"
+    }, 
+    {
+        "id": 9435, 
+        "lang_tagged_text": "lol\\EN ,\\UN outstanding\\EN .\\UN guddu\\UN is\\EN too\\EN good\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "lol ,  outstanding .  guddu is too good"
+    }, 
+    {
+        "id": 9436, 
+        "lang_tagged_text": "cannot\\EN wait\\EN to\\EN see\\EN @\\UN someUSER\\EN with\\EN my\\EN boys\\EN @\\UN someUSER\\EN and\\EN @\\UN someUSER\\EN next\\EN friday\\EN in\\EN athens\\EN !\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "cannot wait to see @someUSER with my boys @someUSER and @someUSER next friday in athens ! "
+    }, 
+    {
+        "id": 9446, 
+        "lang_tagged_text": "mera\\HI dard\\HI tu\\HI hi\\EN samajhti\\HI hai\\HI !\\UN !\\UN sigh\\HI !\\UN !\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "mera dard tu hi samajhti hai !  !  sigh !  ! "
+    }, 
+    {
+        "id": 9447, 
+        "lang_tagged_text": "rt\\EN @\\UN sonamandeep\\EN :\\UN @\\UN gurmeetramrahim\\UN there\\EN isgreat\\EN revolution\\EN in\\EN the\\EN history\\EN of\\EN the\\EN world\\EN becoz\\EN #\\UN msg3successfulweeks\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "rt @sonamandeep: @gurmeetramrahim there isgreat revolution in the history of the world becoz #msg3successfulweeks"
+    }, 
+    {
+        "id": 9449, 
+        "lang_tagged_text": "Movie\\EN ?\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Movie  ? "
+    }, 
+    {
+        "id": 9450, 
+        "lang_tagged_text": "sun\\HI jb\\HI jyega\\HI na\\HI to\\HI usse\\HI phele\\HI milne\\HI aaiyu\\HI mjhse\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "sun jb jyega na to usse phele milne aaiyu mjhse "
+    }, 
+    {
+        "id": 9455, 
+        "lang_tagged_text": "kal\\HI itni\\HI subha\\HI match\\HI rakha\\HI hai\\HI me\\HI humare\\HI boys\\EN bina\\HI nahaye\\HI ground\\EN par\\HI aayenge\\HI .\\UN #\\UN indvspak\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "kal itni subha match rakha hai me humare boys bina nahaye ground par aayenge. #indvspak"
+    }, 
+    {
+        "id": 9457, 
+        "lang_tagged_text": "@\\UN someUSER\\EN he\\EN is\\EN one\\EN of\\EN the\\EN 1st\\EN names\\EN on\\EN mancini's\\EN team\\EN sheet\\EN and\\EN he\\EN was\\EN one\\EN of\\EN the\\EN 1st\\EN names\\EN on\\EN capello's\\EN team\\EN sheet\\EN and\\EN that\\EN says\\EN it\\EN all\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "@someUSER he is one of the 1st names on mancini's team sheet and he was one of the 1st names on capello's team sheet and that says it all"
+    }, 
+    {
+        "id": 9458, 
+        "lang_tagged_text": "jumme\\HI ka\\HI din\\HI hai\\HI ,\\UN chatting\\EN ki\\HI baat\\HI hai\\HI .\\UN allah\\HI bachaye\\HI mujhe\\HI ,\\UN fake\\EN pages\\EN se\\EN .\\UN ", 
+        "matrix_language": "MI", 
+        "sentiment": 1, 
+        "text": "jumme ka din hai, chatting ki baat hai. allah bachaye mujhe, fake pages se."
+    }, 
+    {
+        "id": 9459, 
+        "lang_tagged_text": "Bhaijaan\\HI aapka\\HI song\\HI humesha\\HI hit\\HI hi\\HI hota\\HI hai\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Bhaijaan aapka song humesha hit hi hota hai"
+    }, 
+    {
+        "id": 9462, 
+        "lang_tagged_text": "Assalamu\\HI Alaikum\\HI Salman\\HI KhanHum\\HI aapke\\HI fans\\EN chaahte\\HI hai\\HI ki\\HI aap\\HI ek\\HI baar\\HI haj\\HI ya\\HI umra\\HI karke\\HI aaye\\HI .\\UN Inshaa\\HI Allah\\HI aapki\\HI life\\EN ki\\HI mushkile\\HI aasaan\\HI hojaaye\\HI .\\UN Aameen\\HI .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Assalamu Alaikum Salman KhanHum aapke fans chaahte hai ki aap ek baar haj ya umra karke aaye . Inshaa Allah aapki life ki mushkile aasaan hojaaye . Aameen."
+    }, 
+    {
+        "id": 9467, 
+        "lang_tagged_text": "bob\\HI marley\\HI bhi\\HI confessions\\EN send\\EN karne\\HI lag\\HI gaya\\HI is\\EN page\\HI pe\\HI ,\\UN kya\\HI baat\\HI hai\\HI ,\\UN page\\HI tarakki\\HI par\\HI hai\\HI :)\\EMT ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "bob marley bhi confessions send karne lag gaya is page pe  ,  kya baat hai  ,  page tarakki par hai :)"
+    }, 
+    {
+        "id": 9475, 
+        "lang_tagged_text": "jab\\HI tak\\HI dhoni\\HI hai\\HI atleast\\HI main\\EN to\\HI chipka\\HI rahunga\\HI .\\UN .\\UN :)\\EMT ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "jab tak dhoni hai atleast main to chipka rahunga .  .  :)"
+    }, 
+    {
+        "id": 9480, 
+        "lang_tagged_text": "yay\\HI !\\UN !\\UN !\\UN we\\EN are\\EN front\\EN page\\EN on\\EN will\\EN ferrell's\\EN funny\\EN or\\EN die\\EN for\\EN the\\EN 24th\\EN time\\EN !\\UN check\\EN it\\EN out\\EN !\\UN .\\UN .\\UN .\\UN http\\EN /\\UN URL\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "yay !  !  !  we are front page on will ferrell's funny or die for the 24th time !  check it out !  .  .  .  http/URL"
+    }, 
+    {
+        "id": 9484, 
+        "lang_tagged_text": "aaj\\HI ki\\HI party\\HI bhaijaan\\HI ki\\HI tarf\\HI se\\HI fb\\HI par\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "aaj ki party bhaijaan ki tarf se fb par"
+    }, 
+    {
+        "id": 9486, 
+        "lang_tagged_text": "\ud83d\ude1d\\UN Ha\\HI balam\\HI Balak\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "\ud83d\ude1d Ha balam Balak "
+    }, 
+    {
+        "id": 9488, 
+        "lang_tagged_text": "goodnight\\EN !\\UN big\\EN day\\EN !\\UN tomorrow\\EN i'm\\EN at\\EN the\\EN school\\EN to\\EN 3:00\\UN (\\UN argentina\\EN time\\EN )\\UN because\\EN i\\EN stay\\EN to\\EN the\\EN mallin\\EN !\\UN (\\UN tomorrow\\EN i'll\\EN tell\\EN you\\EN what\\EN is\\EN that\\EN )\\UN !\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "goodnight !  big day !  tomorrow i'm at the school to 3:00 (argentina time) because i stay to the mallin !  (tomorrow i'll tell you what is that) ! "
+    }, 
+    {
+        "id": 9492, 
+        "lang_tagged_text": "i\\EN thought\\EN yeh\\HI meri\\HI hi\\HI school\\EN mein\\HI hota\\HI tha\\HI .\\UN .\\UN i\\EN guess\\EN sab\\HI jagah\\HI same\\EN hi\\HI hai\\HI !\\UN ", 
+        "matrix_language": "MI", 
+        "sentiment": 1, 
+        "text": "i thought yeh meri hi school mein hota tha  .  .  i guess sab jagah same hi hai  ! "
+    }, 
+    {
+        "id": 9493, 
+        "lang_tagged_text": "BHARAT\\HI \"\\UN MODI\\HI \"\\UN ke\\HI Saath\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "BHARAT \"MODI\" ke Saath"
+    }, 
+    {
+        "id": 9500, 
+        "lang_tagged_text": "Congo's\\EN ....\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "Congo's.... "
+    }, 
+    {
+        "id": 9506, 
+        "lang_tagged_text": "Yessss\\EN my\\EN cuteee\\EN salman\\HI ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "Yessss my cuteee salman"
+    }, 
+    {
+        "id": 9508, 
+        "lang_tagged_text": "inshallha\\HI .\\UN allha\\HI aap\\HI ko\\HI kamyaab\\HI kara\\HI gaya\\HI .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "inshallha . allha aap ko kamyaab kara gaya . "
+    }, 
+    {
+        "id": 9510, 
+        "lang_tagged_text": "i\\EN may\\EN be\\EN the\\EN odd\\EN man\\EN out\\EN on\\EN this\\EN but\\EN i\\EN don't\\EN get\\EN all\\EN the\\EN buzz\\EN on\\EN this\\EN kendrick\\EN lamar\\EN .\\UN decent\\EN i\\EN guess\\EN ,\\UN but\\EN not\\EN stellar\\EN .\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "i may be the odd man out on this but i don't get all the buzz on this kendrick lamar .  decent i guess ,  but not stellar . "
+    }, 
+    {
+        "id": 9512, 
+        "lang_tagged_text": "note\\EN ::\\UN jisse\\HI yakin\\HI na\\HI ho\\HI wo\\HI pehle\\HI try\\EN kare\\HI .\\UN .\\UN !\\UN !\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "note::jisse yakin na ho wo pehle try kare .  .  !  ! "
+    }, 
+    {
+        "id": 9513, 
+        "lang_tagged_text": "u\\HI were\\EN the\\EN real\\EN indian\\EN captain\\EN .\\UN u\\EN took\\EN india\\HI to\\EN heights\\EN in\\EN test\\EN cricket\\EN .\\UN .\\UN .\\UN one\\EN day\\EN &\\UN even\\EN 20-20\\UN :)\\EMT no\\EN one\\EN can\\EN ever\\EN replace\\EN u\\EN :)\\EMT we\\HI love\\HI u\\HI msd\\HI :*\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "u were the real indian captain  .  u took india to heights in test cricket  .  .  .  one day & even 20-20 :) no one can ever replace u :) we love u msd :*"
+    }, 
+    {
+        "id": 9514, 
+        "lang_tagged_text": "Han\\HI yar\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Han yar "
+    }, 
+    {
+        "id": 9518, 
+        "lang_tagged_text": "as\\EN usual\\EN .\\UN .\\UN .\\UN wide\\EN ball\\EN k\\HI lie\\EN adha\\HI eint\\HI use\\HI kiya\\HI hi\\HI .\\UN .\\UN .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "as usual .  .  . wide ball k lie adha eint use kiya hi .  .  . "
+    }, 
+    {
+        "id": 9521, 
+        "lang_tagged_text": "Bhai\\HI aapke\\HI baare\\HI mein\\HI koi\\HI kuch\\HI bhi\\HI kahe\\HI hame\\HI kuch\\HI farak\\HI nahi\\HI padta\\HI aap\\HI hamare\\HI bhai\\HI ho\\HI allah\\HI aap\\HI ki\\HI movie\\EN ko\\HI super\\EN kare\\HI jumma\\HI mubarak\\HI bhai\\HI khuda\\HI hafiz\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Bhai aapke baare mein koi kuch bhi kahe hame kuch farak nahi padta aap hamare bhai ho allah aap ki movie ko super kare jumma mubarak bhai khuda hafiz"
+    }, 
+    {
+        "id": 9522, 
+        "lang_tagged_text": "please\\EN sir\\EN apke\\HI rhte\\HI vito\\EN power\\EN dila\\HI dena\\HI ......................\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "please sir apke rhte vito power dila dena ......................"
+    }, 
+    {
+        "id": 9526, 
+        "lang_tagged_text": "@\\UN someUSER\\HI oh\\HI yes\\EN ,\\UN never\\EN a\\EN dull\\EN moment\\EN !\\UN !\\UN looking\\EN forward\\EN to\\EN just\\EN rafa\\HI &\\UN amp\\EN ;\\UN bronte\\EN tomorrow\\EN !\\UN nice\\EN to\\EN be\\EN busy\\EN though\\EN !\\UN hope\\EN boys\\EN ok\\HI !\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "@someUSER oh yes ,  never a dull moment !  !  looking forward to just rafa &amp; bronte tomorrow !  nice to be busy though !  hope boys ok ! "
+    }, 
+    {
+        "id": 9535, 
+        "lang_tagged_text": "Acha\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "Acha "
+    }, 
+    {
+        "id": 9537, 
+        "lang_tagged_text": "rt\\EN @\\UN insannancy\\EN :\\UN #\\UN msgyouthicon\\EN the\\EN waters\\EN plunge\\EN in\\EN a\\EN rapid\\EN ,\\UN guruji's\\EN hair\\EN falls\\EN in\\EN a\\EN symphony\\EN ,\\UN what\\EN a\\EN sight\\EN ..\\UN http\\EN ://\\UN t\\EN .\\UN co\\HI /\\UN tcavgcpfqq\\HI ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "rt @insannancy: #msgyouthicon the waters plunge in a rapid, guruji's hair falls in a symphony,what a sight .. http://t.co/tcavgcpfqq"
+    }, 
+    {
+        "id": 9539, 
+        "lang_tagged_text": "Hiii\\EN salman\\UN I\\EN form\\EN mardin\\EN we\\EN are\\EN love\\EN you\\EN bolly\\EN fans\\EN Turkey\\EN love\\EN you\\EN love\\EN you\\EN come\\EN in\\EN turkey\\EN come\\EN in\\EN Istanbul\\EN muahhh\\HI ???\\UN you\\HI we\\EN salman\\EN bhaiiiii\\HI I\\EN love\\EN you\\EN muah\\HI ?????\\UN you\\EN are\\EN films\\EN likeeee\\EN ?\\UN my\\EN favorite\\EN films\\EN chori\\HI chori\\HI chupke\\HI chupke\\HI ??\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": 1, 
+        "text": "Hiii salman I form mardin we are love you bolly fans Turkey love you love you come in turkey come in Istanbul muahhh??? you we salman bhaiiiii I love you muah ????? you are films likeeee? my favorite films chori chori chupke chupke ??"
+    }, 
+    {
+        "id": 9540, 
+        "lang_tagged_text": "guddu\\UN tere\\HI school\\EN ki\\EN chutti\\HI ,\\UN jab\\HI tak\\HI world\\EN cup\\EN chalega\\HI ;-)\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "guddu tere school ki chutti ,  jab tak world cup chalega ;-)"
+    }, 
+    {
+        "id": 9541, 
+        "lang_tagged_text": "bhai\\HI hum\\HI to\\EN android\\EN mei\\EN bhi\\EN 64in1\\EN download\\EN kiye\\HI hain\\HI .\\UN .\\UN .\\UN .\\UN .\\UN bachpan\\HI chhoot\\HI nahi\\HI sakta\\HI .\\UN .\\UN .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": 1, 
+        "text": "bhai hum to android mei bhi 64in1 download kiye hain .  .  .  .  .  bachpan chhoot nahi sakta .  .  . "
+    }, 
+    {
+        "id": 9543, 
+        "lang_tagged_text": "anyways\\EN ,\\UN good\\EN morning\\EN .\\UN did\\EN you\\HI know\\EN about\\EN khader\\EN adnan's\\EN lecture\\EN in\\EN ramallah\\HI tomorrow\\EN evening\\EN 7:00\\UN pm\\EN 

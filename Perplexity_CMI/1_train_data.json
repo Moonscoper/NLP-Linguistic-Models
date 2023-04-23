@@ -64352,4 +64352,370 @@
     }, 
     {
         "id": 10281, 
-        "lang_tagged_text": "guddu\\UN kal\\HI school\\EN na\\HI jana\\HI .\\UN .\\UN .\\UN .\\UN kal\\HI virat\\HI kohli\\HI ko\\HI ruteee\\HI :(\\UN dekhnaa\\HI .\\UN .\\UN .\\UN !\\UN !\\UN !\\UN kal\\HI india\\EN ghar\\HI aa\\HI jae\\HI ga\\HI
+        "lang_tagged_text": "guddu\\UN kal\\HI school\\EN na\\HI jana\\HI .\\UN .\\UN .\\UN .\\UN kal\\HI virat\\HI kohli\\HI ko\\HI ruteee\\HI :(\\UN dekhnaa\\HI .\\UN .\\UN .\\UN !\\UN !\\UN !\\UN kal\\HI india\\EN ghar\\HI aa\\HI jae\\HI ga\\HI wapis\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "guddu kal school na jana  .  .  .  .  kal virat kohli ko ruteee :( dekhnaa .  .  .  !  !  !  kal india ghar aa jae ga wapis"
+    }, 
+    {
+        "id": 10290, 
+        "lang_tagged_text": "chutiye\\EN 70\\UN issues\\EN to\\EN likh\\HI na\\HI paya\\HI solve\\HI kahase\\HI karega\\HI ;)\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "chutiye 70 issues to likh na paya solve kahase karega ;)"
+    }, 
+    {
+        "id": 10297, 
+        "lang_tagged_text": "@\\UN someUSER\\EN that's\\EN crazy\\EN .\\UN i'm\\EN more\\EN jealous\\EN of\\EN u\\EN going\\EN to\\EN joe\\UN pa's\\EN grave\\EN !\\UN i\\EN was\\EN sad\\EN saturday\\EN when\\EN i\\EN walked\\EN past\\EN where\\EN the\\EN statue\\EN should\\EN be\\EN :(\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "@someUSER that's crazy .  i'm more jealous of u going to joe pa's grave !  i was sad saturday when i walked past where the statue should be:("
+    }, 
+    {
+        "id": 10304, 
+        "lang_tagged_text": "@\\UN someUSER\\EN i\\EN think\\EN we\\EN all\\EN knew\\EN it\\EN would\\EN come\\EN to\\EN this\\EN .\\UN we\\EN sat\\EN through\\EN 4\\UN yrs\\EN of\\EN watching\\EN a\\EN hatred\\EN for\\EN the\\EN potus\\EN build\\EN up\\EN .\\UN and\\EN here\\EN we\\EN are\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "@someUSER i think we all knew it would come to this .  we sat through 4 yrs of watching a hatred for the potus build up .  and here we are"
+    }, 
+    {
+        "id": 10319, 
+        "lang_tagged_text": "Teri\\HI party\\EN tere\\HI baab\\HI ko\\HI de\\HI na\\HI layak\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Teri party tere baab ko de na layak"
+    }, 
+    {
+        "id": 10323, 
+        "lang_tagged_text": "listen\\EN .\\UN bhagavad\\UN gita\\UN was\\EN a\\EN conspiracy\\EN hatched\\EN by\\EN brahmins\\UN in\\EN collusion\\EN with\\EN kshatiryas\\UN to\\EN enslave\\EN women\\EN ,\\UN vaishya\\UN &\\UN amp\\HI ;\\UN sudra\\UN .@\\UN komal3192\\EN #\\UN beefban\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "listen.bhagavad gita was a conspiracy hatched by brahmins in collusion with kshatiryas to enslave women,vaishya &amp; sudra.@komal3192 #beefban"
+    }, 
+    {
+        "id": 10325, 
+        "lang_tagged_text": "machhli\\HI khayega\\HI bc\\HI ..\\UN rt\\EN \"@\\UN engineeroholic\\EN :\\UN rohit\\UN aaj\\HI maggi\\HI ki\\HI jagah\\HI mutton\\HI khayega\\HI .\\UN #\\UN indvsuae\\EN #\\UN cwc15\\EN \"\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "machhli khayega bc.. rt \"@engineeroholic : rohit aaj maggi ki jagah mutton khayega. #indvsuae #cwc15\""
+    }, 
+    {
+        "id": 10332, 
+        "lang_tagged_text": "Itne\\HI fan's\\EN ko\\EN nervous\\EN kar\\HI k\\HI aap\\HI so\\HI kaise\\HI sakte\\HI ho\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Itne fan's ko nervous kar k aap so kaise sakte ho"
+    }, 
+    {
+        "id": 10346, 
+        "lang_tagged_text": "bhai\\HI i\\EN hate\\EN u\\EN garbage\\EN bin\\EN u\\EN make\\EN me\\EN cry\\EN ", 
+        "matrix_language": "MI", 
+        "sentiment": -1, 
+        "text": "bhai i hate u garbage bin u make me cry"
+    }, 
+    {
+        "id": 10348, 
+        "lang_tagged_text": "feku\\HI ji\\HI kiren\\HI bedi\\HI is\\EN going\\EN to\\EN loose\\HI krishna\\HI nagar\\HI seat\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "feku ji kiren bedi is going to loose krishna nagar seat"
+    }, 
+    {
+        "id": 10353, 
+        "lang_tagged_text": "itni\\HI problem\\EN to\\EN muslims\\EN ko\\HI bhi\\HI nahi\\HI hai\\HI jitni\\HI chaatiyaan\\HI peet\\HI peet\\HI kar\\HI hindu\\HI sickulars\\EN ro\\HI rahe\\HI hain\\HI #\\UN beefban\\EN par\\HI ...\\UN haraam\\HI ke\\HI pille\\HI kahi\\HI k\\HI ..\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "itni problem to muslims ko bhi nahi hai jitni chaatiyaan peet peet kar hindu sickulars ro rahe hain #beefban par... haraam ke pille kahi k.."
+    }, 
+    {
+        "id": 10358, 
+        "lang_tagged_text": "Muslim\\HI hokar\\HI muslim\\HI ko\\HI hi\\EN neech\\HI bolte\\HI ho\\HI .\\UN ..\\UN Allah\\HI se\\HI daro\\HI .\\UN ...\\UN ye\\HI saari\\HI dolat\\HI sab\\HI kuch\\HI yaho\\HI reh\\HI jayega\\HI .\\UN ..\\UN Khuda\\HI se\\HI daro\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Muslim hokar muslim ko hi neech bolte ho. .. Allah se daro. ...  ye saari dolat sab kuch yaho reh jayega. .. Khuda se daro"
+    }, 
+    {
+        "id": 10362, 
+        "lang_tagged_text": "ya\\HI ni\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "ya ni "
+    }, 
+    {
+        "id": 10368, 
+        "lang_tagged_text": "ye\\HI me\\HI nhi\\HI man\\HI ta\\HI bhai\\HI is\\HI se\\HI achi\\EN to\\HI meri\\HI girlfriend\\HI h\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "ye me nhi man ta bhai is se achi to meri girlfriend h"
+    }, 
+    {
+        "id": 10370, 
+        "lang_tagged_text": "this\\EN summer\\EN will\\EN be\\EN the\\EN most\\EN dreadful\\EN summer\\EN for\\EN delhites\\EN .\\UN no\\EN electricity\\EN ,\\UN no\\EN water\\EN ,\\UN aur\\EN free\\EN ha\\HI ha\\HI ha\\HI ha\\HI ....\\UN #\\UN aapcheater\\HI #\\UN delhidecides\\EN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "this summer will be the most dreadful summer for delhites. no electricity, no water, aur wifi ha ha ha ha.... #aapcheater #delhidecides"
+    }, 
+    {
+        "id": 10376, 
+        "lang_tagged_text": "yeh\\HI bahut\\HI buri\\HI baat\\HI hai\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "yeh bahut buri baat hai"
+    }, 
+    {
+        "id": 10397, 
+        "lang_tagged_text": "chutiye\\HI .\\UN .\\UN .\\UN sirf\\HI vade\\HI krne\\HI se\\HI vote\\EN milte\\HI to\\EN aaj\\HI mein\\HI bhi\\HI pm\\EN hota\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "chutiye .  .  . sirf vade krne se vote milte to aaj mein bhi pm hota"
+    }, 
+    {
+        "id": 10400, 
+        "lang_tagged_text": "kro\\HI salo\\HI sb\\HI khujliwale\\HI ko\\HI hi\\EN vote\\EN kro\\HI ,\\UN ,\\UN ,\\UN dekhte\\HI h\\HI is\\HI br\\HI cm\\HI bnane\\HI ke\\HI bd\\HI wo\\HI kyakrta\\HI h\\HI ?\\UN ?\\UN ?\\UN ?\\UN sambhal\\HI ke\\HI rhna\\HI bcz\\EN 2017me\\HI america\\EN me\\HI president\\EN ka\\HI election\\EN h\\HI ,\\UN ,\\UN ,\\UN kahi\\EN waha\\HI pe\\HI na\\HI bhag\\HI jae\\HI khujliwala\\HI ,\\UN ,\\UN ,\\UN hahahahah\\UN ,\\UN waha\\HI jake\\HI party\\HI ka\\HI nam\\HI change\\HI krdega\\HI all\\EN americans\\EN party\\EN ", 
+        "matrix_language": "MI", 
+        "sentiment": -1, 
+        "text": "kro salo sb khujliwale ko hi vote kro ,  ,  , dekhte h is br cm bnane ke bd wo kyakrta h ?  ?  ?  ? sambhal ke rhna bcz 2017me america me president ka election h ,  ,  , kahi waha pe na bhag jae khujliwala ,  ,  , hahahahah ,  waha jake party ka nam change krdega all americans party"
+    }, 
+    {
+        "id": 10412, 
+        "lang_tagged_text": "wow\\EN drew\\EN peterson\\EN was\\EN just\\EN convicted\\EN on\\EN september\\EN 6th\\EN for\\EN murder\\EN of\\EN his\\EN 3rd\\EN wide\\EN and\\EN they\\EN never\\EN found\\EN the\\EN body\\EN of\\EN his\\EN 4th\\EN wide\\EN smfh\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "wow drew peterson was just convicted on september 6th for murder of his 3rd wide and they never found the body of his 4th wide smfh"
+    }, 
+    {
+        "id": 10425, 
+        "lang_tagged_text": "Ke\\HI ho\\HI gaya\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Ke ho gaya "
+    }, 
+    {
+        "id": 10431, 
+        "lang_tagged_text": "Yr\\EN kya\\HI chahte\\HI ho\\HI tum\\HI log\\HI ..\\UN hum\\HI log\\HI khudkhusi\\HI kr\\HI le\\HI kya\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Yr kya chahte ho tum log .. hum log khudkhusi kr le kya "
+    }, 
+    {
+        "id": 10433, 
+        "lang_tagged_text": "Allah\\HI se\\HI dua\\HI hai\\HI ke\\HI teri\\HI film\\EN supper\\EN supper\\EN supper\\EN flap\\EN ho\\HI malon\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Allah se dua hai ke teri film supper supper supper flap ho malon"
+    }, 
+    {
+        "id": 10436, 
+        "lang_tagged_text": "but\\EN i\\EN can't\\EN .\\UN .\\UN i'm\\EN an\\EN engineer\\EN .\\UN .\\UN .\\UN !\\UN :'(\\UN :(\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "but i can't .  .  i'm an engineer  .  .  .  !  :'( :("
+    }, 
+    {
+        "id": 10439, 
+        "lang_tagged_text": "Mummy\\HI bhi\\HI h\\HI ?\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Mummy bhi h ? "
+    }, 
+    {
+        "id": 10440, 
+        "lang_tagged_text": "kya\\HI lul\\HI post\\HI hai\\HI :\\UN p\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "kya lul post hai :p"
+    }, 
+    {
+        "id": 10443, 
+        "lang_tagged_text": "Abe\\HI selman\\HI Khan\\HI muslman\\HI ke\\HI name\\EN per\\HI klneq\\HI hae\\HI ise\\HI jeene\\HI ka\\HI koi\\HI heq\\HI nahi\\HI hae\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Abe selman Khan muslman ke name per klneq hae ise jeene ka koi heq nahi hae"
+    }, 
+    {
+        "id": 10457, 
+        "lang_tagged_text": "apne\\HI aap\\HI ko\\HI kya\\HI samjhte\\HI ho\\HI mushalman\\HI ko\\HI challage\\EN dete\\HI ho\\HI ab\\HI dekho\\HI hum\\HI mushlman\\HI bhi\\HI kuch\\HI kam\\HI nai\\HI he\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "apne aap ko kya samjhte ho mushalman ko challage dete ho ab dekho hum mushlman bhi kuch kam nai he"
+    }, 
+    {
+        "id": 10459, 
+        "lang_tagged_text": "garib\\HI ro\\HI rahe\\HI h\\HI or\\HI tum\\HI jalse\\HI kr\\HI rhe\\HI ho\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "garib ro rahe h or tum jalse kr rhe ho"
+    }, 
+    {
+        "id": 10460, 
+        "lang_tagged_text": "uriya\\HI me\\HI hi\\HI likh\\HI deta\\HI .\\UN .\\UN smjh\\HI to\\HI wo\\HI bhi\\EN nhi\\HI ana\\HI tha\\HI or\\HI ye\\HI bhi\\HI nhi\\HI aya\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "uriya me hi likh deta  .  .  smjh to wo bhi nhi ana tha or ye bhi nhi aya"
+    }, 
+    {
+        "id": 10463, 
+        "lang_tagged_text": "ab\\HI desh\\HI sadhvi\\EN se\\HI janna\\HI chahti\\HI delhi\\UN me\\HI kiski\\HI sarkar\\HI bani\\HI hai\\HI ramzade\\HI ki\\HI ya\\HI haramzade\\HI ki\\HI .\\UN #\\UN delhidecides\\EN #\\UN aapsweep\\EN #\\UN delhivotes\\EN #\\UN aapkidilli\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "ab desh sadhvi se janna chahti delhi me kiski sarkar bani hai ramzade ki ya haramzade ki. #delhidecides #aapsweep #delhivotes #aapkidilli"
+    }, 
+    {
+        "id": 10472, 
+        "lang_tagged_text": "aray\\HI ye\\HI kloi\\HI kamina\\HI he\\HI bhi\\HI k\\HI name\\EN se\\HI id\\HI open\\EN kia\\HI he\\HI bar\\HI bar\\HI hi\\HI hi\\HI kar\\HI raha\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "aray ye kloi kamina he bhi k name se id open kia he bar bar hi hi kar raha"
+    }, 
+    {
+        "id": 10475, 
+        "lang_tagged_text": "allah\\HI kare\\HI is\\HI khabis\\HI ki\\HI movie\\EN flop\\EN ho\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "allah kare is khabis ki movie flop ho"
+    }, 
+    {
+        "id": 10476, 
+        "lang_tagged_text": "anna\\HI ji\\HI .\\UN modi\\HI ji\\HI .\\UN sachche\\HI hai\\HI to\\HI aap\\HI ko\\HI .\\UN bura\\HI lag\\HI raha\\HI hai\\HI khujliwala\\HI khud\\HI carorpati\\HI se\\HI arab\\HI pati\\HI bangaya\\HI aapko\\HI nahi\\HI dikhta\\HI .\\UN aapko\\HI aagar\\HI sachche\\HI ka\\HI sath\\HI dena\\HI hai\\HI to\\HI modi\\HI ji\\HI ko\\HI dijiye\\HI one\\HI man\\EN army\\EN .\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "anna ji .  modi ji .  sachche hai to aap ko .  bura lag raha hai khujliwala khud carorpati se arab pati bangaya aapko nahi dikhta .  aapko aagar sachche ka sath dena hai to modi ji ko dijiye one man army . "
+    }, 
+    {
+        "id": 10479, 
+        "lang_tagged_text": "ab\\HI koi\\HI ni\\HI chipka\\HI :-(\\EMT anushka\\HI ne\\HI harwa\\HI diya\\HI aaj\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "ab koi ni chipka :-( anushka ne harwa diya aaj"
+    }, 
+    {
+        "id": 10480, 
+        "lang_tagged_text": "AB\\HI to\\EN type\\EN karte\\HI kate\\HI fingariya\\HI dard\\HI hone\\HI lagi\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "AB to type karte kate fingariya dard hone lagi"
+    }, 
+    {
+        "id": 10483, 
+        "lang_tagged_text": "yahi\\HI ek\\HI dava\\HI hai\\HI thand\\HI ki\\HI .\\UN .\\UN .\\UN .\\UN .\\UN .\\UN .\\UN .\\UN baki\\HI ke\\HI to\\EN side\\EN effect\\EN hai\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "yahi ek dava hai thand ki .  .  .  .  .  .  .  . baki ke to side effect hai"
+    }, 
+    {
+        "id": 10491, 
+        "lang_tagged_text": "speech\\EN se\\HI nahi\\HI hoga\\HI des\\HI ka\\HI vikas\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "speech se nahi hoga des ka vikas"
+    }, 
+    {
+        "id": 10498, 
+        "lang_tagged_text": "sharmaji\\HI ke\\HI launde\\HI ki\\HI pahle\\HI baar\\HI dhunai\\HI hui\\HI hai\\HI ,\\UN sapne\\HI me\\HI hi\\HI sahi\\HI :)\\EMT ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "sharmaji ke launde ki pahle baar dhunai hui hai  ,  sapne me hi sahi :)"
+    }, 
+    {
+        "id": 10514, 
+        "lang_tagged_text": "wo\\HI to\\HI election\\EN mi\\HI is\\HI feku\\HI ko\\HI pata\\HI chal\\HI jaega\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "wo to election mi is feku ko pata chal jaega"
+    }, 
+    {
+        "id": 10522, 
+        "lang_tagged_text": "sir\\EN ji\\HI ye\\HI achi\\HI bat\\HI nhi\\HI he\\HI ki\\HI aap\\HI apne\\HI fan\\EN se\\HI majak\\HI kre\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "sir ji ye achi bat nhi he ki aap apne fan se majak kre"
+    }, 
+    {
+        "id": 10526, 
+        "lang_tagged_text": "#\\UN rssquestionsteresa\\EN #\\UN landacquisitionbill\\EN #\\UN arvindannaback\\EN #\\UN whereisrahul\\EN all\\EN indian\\EN bakchod\\HI (\\UN aib\\HI )\\UN full\\EN video\\EN http\\EN ://\\UN t\\EN .\\UN co\\EN /\\UN elyfnzjs2p\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "#rssquestionsteresa #landacquisitionbill #arvindannaback #whereisrahul all indian bakchod (aib) full video http://t.co/elyfnzjs2p"
+    }, 
+    {
+        "id": 10527, 
+        "lang_tagged_text": "mere\\HI saath\\HI isse\\HI similar\\EN ghatna\\HI ghati\\HI .\\UN sunday\\EN ko\\HI mcg\\EN mein\\HI bahut\\HI der\\HI tak\\HI control\\EN karne\\HI ke\\HI baad\\HI toilet\\EN gaya\\HI .\\UN aur\\HI jaate\\HI hi\\EN kohli\\UN out\\EN :(\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "mere saath isse similar ghatna ghati .  sunday ko mcg mein bahut der tak control karne ke baad toilet gaya .  aur jaate hi kohli out :("
+    }, 
+    {
+        "id": 10529, 
+        "lang_tagged_text": "tu\\HI to\\HI pagal\\HI he\\HI tu\\HI to\\HI paltu\\HI he\\HI or\\HI jootha\\HI bhi\\HI ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "tu to pagal he tu to paltu he or jootha bhi"
+    }, 
+    {
+        "id": 10538, 
+        "lang_tagged_text": "Bs\\HI bhai\\HI yha\\HI b\\HI yhi\\HI haal\\HI h\\HI .\\UN Tnsn\\EN hoti\\HI h\\HI ab\\HI \ud83d\ude01\\UN jobs\\EN nd\\EN= all\\EN future\\EN \ud83d\ude01\ud83d\ude01\ud83d\ude14\\UN ", 
+        "matrix_language": "MI", 
+        "sentiment": -1, 
+        "text": "Bs bhai yha b yhi haal h. Tnsn hoti h ab\ud83d\ude01 jobs nd all future\ud83d\ude01\ud83d\ude01\ud83d\ude14 "
+    }, 
+    {
+        "id": 10540, 
+        "lang_tagged_text": "hum\\HI to\\HI jaise\\HI salay\\HI ye\\HI bolkay\\HI paise\\HI letey\\HI h\\HI ..\\UN mumy\\HI apki\\HI bahu\\HI ne\\HI iphone\\HI manga\\HI h\\HI paise\\HI dena\\HI -_-\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "hum to jaise salay ye bolkay paise letey h .. mumy apki bahu ne iphone manga h paise dena -_- "
+    }, 
+    {
+        "id": 10541, 
+        "lang_tagged_text": "rt\\EN @\\UN lindsaypereira\\EN :\\UN \"\\UN dheesh\\EN ish\\EN nhot\\EN ghood\\EN .\\UN bheef\\EN ish\\EN phor\\EN borship\\EN nhot\\EN phor\\EN cheelee\\EN phry\\EN .\"\\UN -\\UN pranab\\UN explaining\\EN why\\EN the\\EN #\\UN beefban\\EN makes\\EN sens\\EN \u2026\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "rt @lindsaypereira: \"dheesh ish nhot ghood. bheef ish phor borship nhot phor cheelee phry.\" - pranab explaining why the #beefban makes sens\u2026"
+    }, 
+    {
+        "id": 10545, 
+        "lang_tagged_text": "Vo\\HI sb\\EN thk\\HI h\\HI ...\\UN .\\UN phle\\HI koi\\HI ye\\HI btao\\HI k\\HI ye\\HI match\\EN cherapunji\\HI jaisi\\HI jagah\\HI kyu\\HI rakha\\HI h\\HI bc\\EN @\\UN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "Vo sb thk h ... . phle koi ye btao k ye match cherapunji jaisi jagah kyu rakha h bc   @ "
+    }, 
+    {
+        "id": 10554, 
+        "lang_tagged_text": "#\\UN arvindannaback\\EN #\\UN landacquisitionbill\\EN modi\\EN in\\EN a\\EN major\\EN fix\\EN .\\UN he\\EN will\\EN criticized\\EN no\\EN matter\\EN what\\EN he\\EN does\\EN with\\EN the\\EN bill\\EN .\\UN major\\EN blow\\EN for\\EN him\\EN .\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "#arvindannaback #landacquisitionbill modi in a major fix. he will criticized no matter what he does with the bill. major blow for him."
+    }, 
+    {
+        "id": 10556, 
+        "lang_tagged_text": "#128\\UN to\\EN the\\EN distressed\\EN soul\\EN in\\EN #96\\UN ...\\UN don't\\EN ever\\EN let\\EN your\\EN girl\\EN talk\\EN to\\EN another\\EN guy\\EN about\\EN her\\EN problems\\EN ...\\UN A\\EN shoulder\\EN to\\EN cry\\EN on\\EN becomes\\EN a\\EN dick\\EN to\\EN ride\\EN on\\EN .\\UN ", 
+        "matrix_language": "EN", 
+        "sentiment": -1, 
+        "text": "#128   to the distressed soul in #96 ... don't ever let your girl talk to another guy about her problems ... A shoulder to cry on becomes a dick to ride on . "
+    }, 
+    {
+        "id": 10563, 
+        "lang_tagged_text": "hahhaha\\HI ..\\UN roo\\HI matt\\HI kisne\\HI kaha\\HI tha\\HI ki\\HI #\\UN aap\\UN ka\\HI sath\\HI chodo\\HI .\\UN jaisi\\HI karni\\HI vaisi\\HI bharni\\HI .\\UN @\\UN thekiranbedi\\EN @\\UN abpnewstv\\EN #\\UN aapsweep\\EN http\\EN ://\\UN t\\EN .\\UN co\\EN /\\UN 8kebzsi58h\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "hahhaha..roo matt kisne kaha tha ki #aap ka sath chodo. jaisi karni vaisi bharni. @thekiranbedi @abpnewstv #aapsweep http://t.co/8kebzsi58h"
+    }, 
+    {
+        "id": 10566, 
+        "lang_tagged_text": "abe\\HI bhagao\\HI yaar\\HI ,\\UN ,\\UN ,\\UN ,\\UN sale\\EN australia\\EN ke\\HI aage\\HI hamesha\\HI sar\\HI jhukwa\\HI dete\\HI hai\\HI ", 
+        "matrix_language": "MI", 
+        "sentiment": -1, 
+        "text": "abe bhagao yaar  ,  ,  ,  ,  sale australia ke aage hamesha sar jhukwa dete hai"
+    }, 
+    {
+        "id": 10569, 
+        "lang_tagged_text": "sharma\\UN ji\\HI ka\\HI launda\\HI aaj\\HI pit\\HI hi\\HI gaya\\HI .\\UN .\\UN :\\UN d\\EN ", 
+        "matrix_language": "HI", 
+        "sentiment": -1, 
+        "text": "sharma ji ka launda aaj pit hi gaya .  .  :d"
+    }, 
+    {
+        "id": 10572, 
+        "lang_tagged_text": "Kaha\\HI hai\\HI ??\\UN ", 
+        "matrix_language": "HI", 
+        "s
